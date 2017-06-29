@@ -2,3 +2,5 @@
 
 
 Ejemplo PHP MySQLi POO MVC - Asignatura IUTW 
+
+Esta funcionando en http://iutw.linkpc.net:40080/phpmvc/
